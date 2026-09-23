@@ -1,0 +1,7 @@
+name: hai-imagegen
+version: 0.1.0
+description: "HAI (hai.hcloud.ltd) 画像生成バックエンド — Krea 2 Medium Turbo 対応"
+author: HCloud-Ltd
+kind: backend
+requires_env:
+  - HAI_API_KEY
