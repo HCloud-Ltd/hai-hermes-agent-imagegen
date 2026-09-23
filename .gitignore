@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Hermes / secrets — 絶対にコミットしない
+.env
+*.env
+HAI_API_KEY
+
+# 生成物・キャッシュ
+*.png
+*.jpg
+*.mp4
+cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
